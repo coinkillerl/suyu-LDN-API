@@ -1,2 +1,2 @@
-## WARNING
-This is more of a Proof-of-concept than anything. This should not be used in actual production because it lacks pretty much any security features, and requires token verification functions in suyu to be disabled/removed to work.
+## WARNING : ABSOLUTE GARBAGE CODE AHEAD
+This is more of a Proof-of-concept and a dumb experiment than anything else, and there already are way better reimplementations of the yuzu web api. This should not be used in actual production because it lacks pretty much any security features, and is *probably* filled with RCE exploits. It requires token verification functions in suyu to be disabled/removed to work. DON'T BE A DUMB FUCK AND RUN THIS ON YOUR PUBLIC SERVER, UNLESS YOU ARE FINE WITH YOUR ENTIRE DISK LIKELY GETTING ```rm -rf```'d!
